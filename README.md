@@ -1,0 +1,1 @@
+This repo represents a mini-project made in which n-body simulation is used to predict orbit, eccentricity of earth's orbit and periodicity of the moon. animate-orbits is used to produce gifs of specified orbit file
